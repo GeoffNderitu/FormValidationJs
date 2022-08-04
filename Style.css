@@ -1,0 +1,49 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mwili{
+    background-color: rgb(126, 138, 138);
+}
+#jaza{
+    background-color: rgb(182, 182, 174);
+    width:90%;
+    height: 69vh;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.arafa, .info, .siri{
+    margin-top: 30px;
+    margin-left: 100px;
+    width: 60%;
+}
+.info{
+    margin-top: 30px;
+}
+.tuma{
+    width: 60%;
+    margin-left: 100px;
+    margin-top: 30px;
+    background-color: rgb(187, 73, 96);
+    color: #fefefe;
+    height: 6vh;
+    border: none;
+    border-radius: 17px;
+}
+.tuma:hover{
+    cursor: pointer;
+    background-color: goldenrod;
+}
+.form_head{
+    margin-top: 30px;
+    text-align: center;
+    background-color: rgb(97, 93, 93);
+    height: 10vh;
+    padding-top: 20px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+#name, #email, #password{
+    border-radius: 15px;
+    outline: none;
+}
